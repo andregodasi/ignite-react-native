@@ -39,7 +39,15 @@ O app estará disponível no seu browser ou você poderá conectar a um emulador
 
 ## 💻 Projeto
 
-Este projeto é a implementação do primeiro exercicio do treinamento do Ignite - React Native na plataforma Rocketseat, é um simples app de To do list.
+Este projeto é a implementação do primeiro exercício do treinamento do Ignite - React Native na plataforma Rocketseat, é um simples app de To do list.
+
+## 📚 Descrição completa do exercício
+
+Para acessar a descrição completa do exercício, [clique aqui](https://www.notion.so/Desafio-01-Praticando-os-conceitos-do-React-Native-9f7ee321a4524042ab4efc48cf7f6631?pvs=4).
+
+## 📐 Protótipo completo do exercício
+
+Para acessar o protótipo completa do exercício, [clique aqui](https://www.notion.so/Desafio-01-Praticando-os-conceitos-do-React-Native-9f7ee321a4524042ab4efc48cf7f6631?pvs=4).
 
 ## Imagens de demostração
 
