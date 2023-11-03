@@ -4,6 +4,8 @@
 
 <h1 align="center">Ignite React Native - ToDo</h1>
 
+<img alt="ToDo gif" src="https://user-images.githubusercontent.com/9595529/280181080-f255bb52-baac-4fbe-b15d-7fa562b3cad8.gif?raw=true" />
+
 ![ToDoList](https://user-images.githubusercontent.com/9595529/280181080-f255bb52-baac-4fbe-b15d-7fa562b3cad8.gif?raw=true)
 
 
