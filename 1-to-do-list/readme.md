@@ -17,10 +17,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 
-Clone o projeto e acesse a pasta do mesmo.
+Clone o projeto e acesse a pasta do projeto.
 
 ```bash
 $ git clone https://github.com/andregodasi/ignite-react-native.git
+
 $ cd ignite-react-native
 ```
 
@@ -35,11 +36,11 @@ $ npx expo start
 
 ```
 
-O app estará disponível no seu browser ou você poderá conectar a um emulador ou dispositivo.
+O app estará disponível no seu browser através de um QRCode ou você poderá conectar a um emulador ou dispositivo.
 
 ## 💻 Projeto
 
-Este projeto é a implementação do primeiro exercício do treinamento do Ignite - React Native na plataforma Rocketseat, é um simples app de To do list.
+Este projeto é a implementação do primeiro exercício do treinamento do Ignite - React Native da plataforma Rocketseat, é um simples app de To do list.
 
 ## 📚 Descrição completa do exercício
 
