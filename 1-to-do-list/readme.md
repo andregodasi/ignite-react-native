@@ -4,10 +4,7 @@
 
 <h1 align="center">Ignite React Native - ToDo</h1>
 
-<img alt="ToDo gif" src="https://user-images.githubusercontent.com/9595529/280181080-f255bb52-baac-4fbe-b15d-7fa562b3cad8.gif?raw=true" />
-
-![ToDoList](https://user-images.githubusercontent.com/9595529/280181080-f255bb52-baac-4fbe-b15d-7fa562b3cad8.gif?raw=true)
-
+<img alt="ToDo gif" src="https://user-images.githubusercontent.com/9595529/280181080-f255bb52-baac-4fbe-b15d-7fa562b3cad8.gif?raw=true"  width="360" />
 
 <br>
 
@@ -45,13 +42,13 @@ Este projeto é a implementação do primeiro exercicio do treinamento do Ignite
 
 ## Imagens de demostração
 
-<p align="center"><img src="https://user-images.githubusercontent.com/9595529/280181033-0514c3c4-9aec-4304-951f-75b478ba9b93.png" width="360" height="640">
+<p align="center"><img src="https://user-images.githubusercontent.com/9595529/280181033-0514c3c4-9aec-4304-951f-75b478ba9b93.png" width="360"/>
 
-<img src="https://user-images.githubusercontent.com/9595529/280181035-c9fa7e7e-34d0-41ff-a066-fec09596403a.png" width="360" height="640">
+<img src="https://user-images.githubusercontent.com/9595529/280181035-c9fa7e7e-34d0-41ff-a066-fec09596403a.png" width="360"/>
 
-<img src="https://user-images.githubusercontent.com/9595529/280181036-569cf291-0a44-4c78-9bd6-8d09f2368568.png" width="360" height="640">
+<img src="https://user-images.githubusercontent.com/9595529/280181036-569cf291-0a44-4c78-9bd6-8d09f2368568.png" width="360"/>
 
-<img src="https://user-images.githubusercontent.com/9595529/280182841-6cf67d45-a874-40d9-9c55-2ec20b4e2078.png" width="360" height="640">
+<img src="https://user-images.githubusercontent.com/9595529/280182841-6cf67d45-a874-40d9-9c55-2ec20b4e2078.png" width="360"/>
 </p>
 
 ## 📝 License
