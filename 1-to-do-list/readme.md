@@ -48,7 +48,7 @@ Para acessar a descrição completa do exercício, [clique aqui](https://www.not
 
 ## 📐 Protótipo completo do exercício
 
-Para acessar o protótipo completa do exercício, [clique aqui](https://www.notion.so/Desafio-01-Praticando-os-conceitos-do-React-Native-9f7ee321a4524042ab4efc48cf7f6631?pvs=4).
+Para acessar o protótipo completo do exercício, [clique aqui](https://www.figma.com/file/xsAlObKiekqTOGOvVxrHwo/ToDo-List-%E2%80%A2-Desafio-React-Native-(Copy)?type=design&node-id=56%3A96&mode=design&t=7KDNqb7dl9OgnFWn-1).
 
 ## Imagens de demostração
 
